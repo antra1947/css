@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name ="pebble pace unisex smart watch" content ="width=device-width,initial -scale=1.0">
+   <img scr "1227650">
+<title>CSS</title>
+
+
+
+<style>
+    h1{
+    color:   black;
+    
+    }
+    
+    
+  h4{
+        color:  red;
+        }
+
+        h3{
+            color:      greenyellow;
+            }
+            
+            h5{
+            color:    blue ;
+            }
+
+        </style>
+</head>
+
+<body>
+
+    <h1>PEBBLE PACE UNISEX SMART WATCH</h1>
+    <h3>features:Receive alert from calls;SMS;Email;whatsaap;twitter;etc.</h3>
+    <h5>rate: rs.2,629</h5>
+    <h4>This is a smart watch</h4 >
+    
+    
+    
+  
+
+</body>
+</html>
